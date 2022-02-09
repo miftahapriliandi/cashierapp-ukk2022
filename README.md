@@ -1,4 +1,4 @@
-# aplikasi_kasir
+# Cashier App - UKK RPL 2022
 
 A new Flutter project.
 
