@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627475999765",
+    "project_id": "cashierapp-25074",
+    "storage_bucket": "cashierapp-25074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627475999765:android:9fa1b2481a40b5bb42f21c",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_kasir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627475999765-h9uli9te1i19codgrubd2mpumbihsdrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhu9H6LGuqdk45r-kfgw2JCQ_ljQTIrAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627475999765-h9uli9te1i19codgrubd2mpumbihsdrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
